@@ -35,7 +35,7 @@ sudo apt-get install uuid-dev
 cd smc_engine
 cmake && make
 make -f makefile_classic
-````
+```
 Note: ensure there are no CMakeFiles and _deps directories.
 
 
