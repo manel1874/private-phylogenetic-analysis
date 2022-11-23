@@ -1,0 +1,4 @@
+Role: bob
+IPOtherParty: 192.168.0.7
+SizeOKeys: 512
+NumberOKeys: 512

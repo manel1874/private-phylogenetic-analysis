@@ -1,0 +1,4 @@
+party_0_ip = 192.168.0.4
+party_1_ip = 192.168.0.6
+party_0_port = 10220
+party_1_port = 10400
