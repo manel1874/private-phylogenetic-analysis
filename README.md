@@ -69,6 +69,6 @@ This project is based on the following papers:
 - [Private Computation of Phylogenetic Trees based on Quantum Technologies](https://ieeexplore.ieee.org/document/9732453), IEEE Access, 2022.
 - [Quantum Secure Multiparty Computation of Phylogenetic Trees of SARS-CoV-2 Genomes](https://ieeexplore.ieee.org/document/9435479), ConfTELE, 2021.
 
-A presentation of the system can also be seen in [this](https://youtu.be/k_W8_pxNQm8) YouTube video
+A presentation of the system can also be seen in [this](https://youtu.be/k_W8_pxNQm8) YouTube video.
 
 
