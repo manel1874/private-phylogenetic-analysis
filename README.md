@@ -51,7 +51,7 @@ Note 2: This application is supposed to be used by different parties located at 
 - In one terminal, fire the key management system from its corresponding folder:
 ```
 python3 run_lkms.py
-``
+``` 
 
 - In the other terminal, fire the application:
 ```
