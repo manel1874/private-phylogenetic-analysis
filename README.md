@@ -1,4 +1,4 @@
-# Quantum private phylogenetic analysis
+# QuPPA - Quantum private phylogenetic analysis
 
 An application that securely computes phylogenetic trees based on the PHYLIP package, secure multiparty computation and quantum technologies. It is based on the [QSHY](https://github.com/manel1874/QSHY/tree/dev-cq-phylip) framework.
 
